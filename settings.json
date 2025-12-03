@@ -4,7 +4,7 @@
     "password": "tymo_x2",
     "client_id": "1442755683748675584",
     "client_secret_id": "EBwEcCesmUqVat7xgG03cmDuCXbKtdM9",
-    "secret_key": "",
+    "secret_key": "tymo_x2",
     "redirect_url": "http://127.0.0.1:8080/callback",
     "logging": {
         "file": {
